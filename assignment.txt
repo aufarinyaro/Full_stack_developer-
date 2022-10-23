@@ -1,0 +1,4 @@
+Full stack developer:
+A full stack developer is a kind of sofware developer who can perform both front end and back end operations in addition to having a rich and comprehensive set of skills, programming languages as well as problem solving attitude
+Tools and languages full stack developers use:
+HTML, CSS, Javascript, Java, Python, SQL, RUST, Web architecture
